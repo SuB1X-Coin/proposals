@@ -8,14 +8,14 @@ Rupaya aims to have a proposals platform and process that is:
 
 ## How it works
 
-1. Create or login to your GitHub account
-2. Create a proposal draft as a GitHub Issue using a build in template. For example:
+1. Login to you GitHub account 
+2. Create a proposal draft as a GitHub Issue using a built-in template. For example:
 
     https://github.com/rupaya-project/proposals/issues/1
     
 3. Based on community comments and feedback, refine the proposal
-4. Once ready, the proposal will be merge into the repository
-5. You will receive a READ-ONLY link from an Admin that can be used when creating the proposal
+4. Once ready, the proposal will be merged into the repository
+5. You will receive a READ-ONLY link from an Admin that can be used to submit the proposal
 6. Use the link to create a proposal on the blockchain(guide will be provided)
 7. Wait for MasterNodes voting outcome
 
