@@ -16,6 +16,8 @@ Rupaya aims to have a proposals platform and process that is:
 3. Based on community comments and feedback, refine the proposal
 4. Once ready, the proposal will be merge into the repository
 5. You will receive a READ-ONLY link from an Admin that can be used when creating the proposal
+6. Use the link to create a proposal on the blockchain(guide will be provided)
+7. Wait for MasterNodes voting outcome
 
 
 ## Technical details
