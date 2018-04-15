@@ -9,7 +9,7 @@ Rupaya aims to have a proposals platform and process that is:
 ## How it works
 
 1. Login to your GitHub account
-2. Create a proposal draft as a [GitHub Issue](https://github.com/rupaya-project/proposals/issues) using a built-in template. For example:
+2. Create a proposal draft as a [GitHub Issue](https://github.com/rupaya-project/proposals/issues). For example:
 
     https://github.com/rupaya-project/proposals/issues/1
     
