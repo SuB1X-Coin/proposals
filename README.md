@@ -17,7 +17,7 @@ Rupaya aims to have a proposals platform and process that is:
 4. Once ready, the proposal will be merged into the repository
 5. You will receive a READ-ONLY short link from an Admin
 6. Use the link to submit the proposal on the blockchain (guide will be provided)
-7. Wait for the MasterNodes owners to vote on your proposal, one vote per masternode instance.
+7. Wait for the MasterNodes owners to vote on your proposal, one vote per masternode instance
 
 
 ## Technical details
