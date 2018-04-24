@@ -1,7 +1,8 @@
 ## Requested funds:
 
-**100,000** RUPX coins which represent **13%** of the monthly governance budget.
+* **100,000** RUPX coins which represent **13%** of the monthly governance budget.
 It will be paid to the `7KT6fvNDEZTF9hTPGVPjAnHdgR8Fj5FdeN` address when we reach block 129,600 (around May 13, 2018) if MasterNode owners support it with `Yes` votes.
+* **50** RUPX to cover the proposal creation fee
 
 ## What are the funds for:
 
