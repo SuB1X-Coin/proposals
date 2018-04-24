@@ -31,5 +31,5 @@ https://github.com/rupaya-project/proposals/issues
 3. Based on community comments and feedback, refine the proposal
 4. Once ready, it will be merged into the 'final' directory of the proposals repository
 5. You will receive a READ-ONLY short link from an Admin
-6. Use the link to submit the proposal on the blockchain. Step by step instructions [here](guides/mn_governance_proposals.md)
+6. Use the link to submit the proposal on the blockchain. Step by step instructions [here](https://github.com/rupaya-project/documentation/blob/master/guides/mn_governance_proposals.md)
 7. Wait for the MasterNodes owners to vote on your proposal, one vote per masternode instance
