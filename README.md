@@ -10,6 +10,19 @@ Rupaya aims to have a proposals platform and process that is:
 
 ## How it works
 
+View active Rupaya Proposals that MasterNode owners can vote on: http://mn.rupx.io/proposals.html
+or use the `PROPOSALS` menu link on http://mn.rupx.io
+
+Click on the proposal title to read more details about it. When ready to vote, click the `VOTE NOW` button of the proposal and copy the command you need to run.
+
+## How do proposals end up on the page
+
+Before a proposal is submitted we recommend opening it up for public discussion. This ensures that your proposal is resonable and polished enough to pass the voting. You can read more about the creation process below.
+
+To see proposals drafts that have not been submitted yet and are open for public discussion go here:
+https://github.com/rupaya-project/proposals/issues
+
+## How to create a proposal
 1. Login to your GitHub account
 2. Create a proposal draft as a [GitHub Issue](https://github.com/rupaya-project/proposals/issues). For example:
 
