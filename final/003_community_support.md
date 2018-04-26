@@ -3,6 +3,8 @@
 * One time proposal of **30,000** RUPX
 * **50** RUPX to cover the proposal submission fee 
 
+Paid to one of my addresses `76tKZXUVoZx4ZuHGjthugt9pFiBHRSfFfo`
+
 ## Describe your proposal
 
 The coins will be distributed to five users that are the most active and helpful in the community.
