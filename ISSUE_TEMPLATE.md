@@ -1,7 +1,7 @@
 ## Requested funds
 
 One time proposal or monthy proposal?
-Specify amounts of RUPX
+Specify the amount(s) of SUB1X
 
 ## Describe your proposal
 
