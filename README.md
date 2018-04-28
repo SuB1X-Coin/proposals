@@ -17,19 +17,19 @@ Click on the proposal title to read more details about it. When ready to vote, c
 
 ## How do proposals end up on the page
 
-Before a proposal is submitted, we recommend opening it up for public discussion. This ensures that your proposal is reasonable enough to pass the voting standards. You can read more about the creation process below.
+Before a proposal is submitted, we recommend opening it up for public discussion. This ensures that your proposal is reasonable and coherent enough to pass our voting standards. You can read more about the creation process below.
 
 To view and participate in discussion on proposals that have not been submitted yet, visit [this]( link:
 
 
 ## How to create a proposal
 1. Login to your GitHub account
-2. Create a proposal draft as a [GitHub Issue](https://github.com/rupaya-project/proposals/issues). For example:
+2. Create a proposal draft as a [GitHub Issue](). For example:
 
-    https://github.com/rupaya-project/proposals/issues/1
     
-3. Based on community comments and feedback, refine the proposal
+    
+3. Based on community feedback, refine the proposal to make it more suitable to vote on
 4. Once ready, it will be merged into the 'final' directory of the proposals repository
 5. You will receive a READ-ONLY short link from an Admin
 6. Use the link to submit the proposal on the blockchain. Step by step instructions on how to do this are [here]()
-7. Wait for the MasterNodes owners to vote on your proposal. Only 1 vote is allowed per MN instance. 
+7. Wait for the MasterNode owners to vote on your proposal. Only 1 vote is allowed per MN instance. 
