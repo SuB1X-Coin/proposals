@@ -1,4 +1,4 @@
-## Rupaya Governance and Proposals
+## SUB1X Governance and Proposals
 
 The SUB1X community governance program will allow anyone with the updated version of the wallet to submit project proposals for integration, promotion, new exchange listings, marketing, development, etc and get the requested SUB1X coins if MasterNode owners support it with **Yes** votes.
 
