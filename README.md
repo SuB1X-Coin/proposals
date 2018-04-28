@@ -19,7 +19,7 @@ Click on the proposal title to read more details about it. When ready to vote, c
 
 Before a proposal is submitted, we recommend opening it up for public discussion. This ensures that your proposal is reasonable enough to pass the voting standards. You can read more about the creation process below.
 
-To view and participate in the discussion on proposals that have not been submitted yet, visit [this]( link:
+To view and participate in discussion on proposals that have not been submitted yet, visit [this]( link:
 
 
 ## How to create a proposal
