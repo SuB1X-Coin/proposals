@@ -11,7 +11,7 @@ SUB1X aims to have a proposals platform that is:
 ## How it works
 
 View active SUB1X proposals that MasterNode owners can vote on: http://sub1x-testnet.mn.zone/proposals.html
-Alternatively, you can use the 'PROPOSALS' menu link. 
+Alternatively, you can use the 'PROPOSALS' menu link on http://sub1x-testnet.mn.zone  . 
 
 Click on the proposal title to read more details about it. When ready to vote, click the `VOTE NOW` button of the proposal and copy the command you need to run.
 
@@ -24,7 +24,7 @@ To view and participate in discussion on proposals that have not been submitted 
 
 ## How to create a proposal
 1. Login to your GitHub account
-2. Create a proposal draft as a [GitHub Issue](). For example:
+2. Create a proposal draft as a [GitHub Issue](https://github.com/SuB1X-Coin/proposals/blob/master/ISSUE_TEMPLATE.md). For example:
 
     
     
