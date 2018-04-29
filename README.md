@@ -30,8 +30,8 @@ https://github.com/SuB1X-Coin/proposals/issues
 
     
     
-3. Based on community feedback, refine the proposal to make it more suitable to vote on
+3. Based on community feedback, refine the proposal to make it more suitable for voting on
 4. Once ready, it will be merged into the 'final' directory of the proposals repository
 5. You will receive a READ-ONLY short link from an Admin
-6. Use the link to submit the proposal on the blockchain. Step by step instructions on how to do this are [here]()
+6. Use the link to submit the proposal on the blockchain. Step by step instructions on how to do this are [here](https://github.com/SuB1X-Coin/documentation/blob/master/guides/mn_governance_proposals.md)
 7. Wait for the MasterNode owners to vote on your proposal. Only 1 vote is allowed per MN instance. 
