@@ -26,7 +26,7 @@ https://github.com/SuB1X-Coin/proposals/issues
 
 ## How to create a proposal
 1. Login to your GitHub account
-2. Create a proposal draft as a [GitHub Issue](https://github.com/SuB1X-Coin/proposals/blob/master/ISSUE_TEMPLATE.md). For example:
+2. Create a proposal draft as a [GitHub Issue](https://github.com/SuB1X-Coin/proposals/blob/master/ISSUE_TEMPLATE.md).
 
     
     
