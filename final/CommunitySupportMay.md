@@ -22,4 +22,4 @@ If this is a success, we can have it as a monthly proposal, starting from the ne
 `mn.zone_dev#7125`
 
 ## Proposal discussion forum:
-[Rupaya Github Proposals Issue 3](https://github.com/SuB1X-Coin/proposals/issues/3)
+[SUB1X Github Proposals Issue 3](https://github.com/SuB1X-Coin/proposals/issues/3)
