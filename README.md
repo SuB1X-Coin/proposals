@@ -10,8 +10,8 @@ SUB1X aims to have a proposals platform that is:
 
 ## How it works
 
-View active SUB1X proposals that MasterNode owners can vote on: http://sub1x-testnet.mn.zone/proposals.html
-Alternatively, you can use the 'PROPOSALS' menu link on http://sub1x-testnet.mn.zone  . 
+View active SUB1X proposals that MasterNode owners can vote on: http://sub1x.mn.zone/proposals.html
+Alternatively, you can use the 'PROPOSALS' menu link on http://sub1.mn.zone  . 
 
 Click on the proposal title to read more details about it. When ready to vote, click the `VOTE NOW` button of the proposal and copy the command you need to run.
 
